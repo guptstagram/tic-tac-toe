@@ -1,0 +1,19 @@
+.choose-play-mode{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #FAACA8;
+    background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.icons-container img{
+    width: 100px;
+    height: 100px;
+}
+.choose-play-mode p{
+    font-size: 24px;
+    margin:10px;
+}

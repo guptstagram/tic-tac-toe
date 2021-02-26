@@ -35,3 +35,12 @@
 .not-selected{
     opacity: 0.2;
 }
+
+@media screen and (max-width: 350px) {
+    .choose-side .icons-container img{
+        margin: 20px;
+    }
+    .selected{
+        padding: 10px;
+    }
+}
